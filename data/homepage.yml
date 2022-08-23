@@ -1,12 +1,12 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Affordable Alternative Medicines and Herbs"
-  content: "Ayus is your one-stop shop for alternative medicine"
+  title : "Affordable Alternative Supplements and Herbs"
+  content: "Ayus is your one-stop shop for alternative supplements"
   image : "/photos/herbs.jpg"
   button1:
     enable : true
-    label : "View Medicines"
+    label : "View Supplements"
     link : "homeopathy"
 
   # demo video
@@ -23,7 +23,7 @@ banner:
 about:
   enable : true
   title : "Our Mission"
-  content : "<p>To provide affordable medicine under the spirit of Neo-Humanism</p>"
+  content : "<p>To provide affordable supplements under the spirit of Neo-Humanism</p>"
   image : "/photos/naturopathy.jpg"
 
 
@@ -63,7 +63,7 @@ video:
 cta:
   enable : true
   title : "Homeopathic First Aid"
-  content : "We have homeopathic medicines for first aid."
+  content : "We have homeopathic supplements for first aid."
   image : "/photos/emergency.jpg"
   # overlayImage : "images/cta-overlay.png"
   # button:
@@ -117,7 +117,7 @@ events:
 
 dishes:
   enable : true
-  title : "Our Most Popular Medicines"
+  title : "Our Most Popular Supplements"
   subtitle: "Ask us for more details"
   items :
     - name: "Acid End" 

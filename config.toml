@@ -154,8 +154,7 @@ author = "Pantry Peers"
 # 14.6631391
 
 # mapMarker = "images/marker.png"
-googleAnalitycsID = "G-46YXT3HWMK"
-
+googleAnalitycsID = "G-T50Z5LV32L"
 
 
 # Contact Information
@@ -199,7 +198,8 @@ copyright = "| @2022 [Pantry Peers](https://pantrypoints.com/build) |"
 
   # Contact Form
   [params.contact]
-  formAction = "https://formcarry.com/s/23YJt-VBl"
+  formAction = "https://formcarry.com/s/htkM-WPNO6"
+  # formAction = "https://formcarry.com/s/23YJt-VBl"
   # formAction = "https://formcarry.com/s/nN_oxJ8Ryot"
   # formAction = "https://hub.pantrypoints.com/api/email"
   # formAction = "https://formcarry.com/s/NUHGWnNKMgb"
