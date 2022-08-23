@@ -1,0 +1,196 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Affordable Alternative Medicines and Herbs"
+  content: "Ayus is your one-stop shop for alternative medicine"
+  image : "/photos/herbs.jpg"
+  button1:
+    enable : true
+    label : "View Medicines"
+    link : "homeopathy"
+
+  # demo video
+  video:
+    enable : true
+    btntxt: ""
+    # videoURL : "https://www.youtube.com/embed/bkabicdixSM"
+    # aWYWcJZoqBM"
+    # Lin recommend https://youtu.be/hAWOU9Kw1bo
+
+
+
+########################## About ##############################
+about:
+  enable : true
+  title : "Our Mission"
+  content : "<p>To provide affordable medicine under the spirit of Neo-Humanism</p>"
+  image : "/photos/naturopathy.jpg"
+
+
+
+######################## Promo Video ##########################
+video:
+  enable : true
+  title : "Our featured medicine for the month"
+  content: "<p>For this month, we look into Memodrops which helps improve memory.</p>
+  " 
+  # <p>Cebuanos have been well-known for roasting lechon in a way that is flavorful, tasty, and mouth-watering, 
+  # with meat that is tender, juicy, and aromatic, with a crispy-skin.</p>"    
+  # content : "To establish a sustainable animal shelter and build a community where people care for animals and treat them with respect and kindness."
+  # Angel's Shelter is an holistic animal shelter in Laguna. Holistic means that we don't only do animal resuce and adoption, but also community-building events, healthy eating, humanistic learning, and social work"
+  videoThumb : "/photos/litmus.jpg"
+  # videoURL : "https://www.youtube.com/embed/bkabicdixSM"
+  # videoURL : "https://www.youtube.com/embed/VSaoTSxSvw0"
+
+
+# compare:
+#   enable : true
+#   title : "Compare our Prices"
+#   subtitle : "Our unique procurement system lets us have lower costs which leads to lower prices for our customers."
+#   items:
+#     - name: "Lechon Espesyal"
+#       content: "<span class='text-danger'>1 kg @ 1,400 pesos<br>500 grams @ 700 pesos<br>250 grams @ 350 pesos<br>-</span>"
+#       image: "/icons/l.jpg"      
+#     - name: "Cebu Lechon"
+#       content: "<span class='text-danger'>1 kg @ 1,300 pesos<br>500 grams @ 675 pesos<br>250 grams @ 350 pesos<br>-</span>"
+#       image: "/icons/r.jpg"          
+#     - name: "Cebu Lechon"
+#       content: "<span class='text-primary'>1 kg @ 1,000 pesos<br>500 grams @ 550 pesos<br>250 grams @ 300 pesos<br>125 grams @ 150 pesos</span>"
+#       image: "logoblue.jpg"
+
+###################### Call to action ########################
+
+cta:
+  enable : true
+  title : "Homeopathic First Aid"
+  content : "We have homeopathic medicines for first aid."
+  image : "/photos/emergency.jpg"
+  # overlayImage : "images/cta-overlay.png"
+  # button:
+  #   label : "View details"
+  #   link : "/graphics/elivirsopening.jpg"
+
+# cta2:
+#   enable : true
+#   title : "Both for Buyers and Sellers"
+#   content : "Are you looking for a specific type of property? Post it here"
+#   image : "/photos/looking.jpg"
+# #   # overlayImage : "images/cta-overlay.png"
+#   button:
+#     label : "Tell us what you're looking for"
+#     link : "/contact"
+
+# cta3:
+#   enable : true
+#   title : "We Support the Pantrypoints System"
+#   content : "We can do property-related tasks for you without you spending any money"
+#   image : "/graphics/mobile.jpg"
+#   button:
+#    label : "What's Pantrypoints?"
+#    link : "https://pantrypoints.com"
+
+# cta4:
+#   enable : true
+#   title : "Whole Lechon available"
+#   content : "Call +63 969 436 0497 to order"
+#   image : "/photos/lechon.jpg"
+#   # overlayImage : "images/cta-overlay.png"
+#   button:
+#     label : "View flyer"
+#     link : "/promo.jpg"
+
+
+
+######################## raw material #######################
+events:
+  enable : false
+  title : "Recent Events"
+  # subtitle : "Get all that you need"
+  eventItem:
+    # material item loop
+    - title : "T-shirt silkscreen"
+      link: "/events/"
+      image : "e/220331g.jpg"
+      content : "Mr. Panya dropped by during our art class"
+      
+
+
+dishes:
+  enable : true
+  title : "Our Most Popular Medicines"
+  subtitle: "Ask us for more details"
+  items :
+    - name: "Acid End" 
+      image: "/noimg.png"
+      description: "For Acidity and Acid Reflux"
+      link: "/homeopathy/acid"
+    - name: "Hair Rejuv"
+      image: "/noimg.png"
+      description: "For Hair Growth"      
+      link: "/homeopathy/hair/"
+    - name: "Skin Rejuv" 
+      image: "/noimg.png"
+      description: "For Skin Growth"
+      link: "/homeopathy/skin/"      
+
+
+########################### Advantage #########################
+
+advantage:
+  enable : false
+  title : "Advantages Of Using <br> Our Product"
+  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  image : "images/advantage.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Extremely lightweight"
+    - listItem : "Excellent breathability"
+    - listItem : "Can increase Cell activation"
+    - listItem : "Glowing Skin In 7 Days"
+    - listItem : "Increasing Glow Of Face"
+    - listItem : "More Beautiful Face Skin"
+
+
+
+######################## Products #############################
+services:
+  enable : true
+  title : "Our Menu"
+  # product item comes from "content/products"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "Feedback"
+  testimonialItem:
+    - name : "Huong"
+      image : "avatars/huong.jpg" # size 100px*100px
+      designation : "Caregiver"
+      content : "My father has diabetes and we use Duhat to as a supplement"
+      rating : "three" # rating star, one to five
+            
+    # - name : "John"
+    #   image : "avatars/john.jpg" # size 100px*100px
+    #   designation : "English Teacher"
+    #   content : "I buy fish from Savilas because they care about the environment"
+    #   rating : "four" # rating star, one to five
+      
+    - name : "Lam"
+      image : "avatars/lam.jpg" # size 100px*100px
+      designation : "Call Center Agent"
+      content : "Memodrops helps me in my work"
+      rating : "four" # rating star, one to five
+      
+    # - name : "Juan"
+    #   image : "avatars/jun.jpg" # size 100px*100px
+    #   designation : "Web Developer"
+    #   content : " diners."
+    #   rating : "four" # rating star, one to five
+      
+    - name : "Juan"
+      image : "avatars/jun.jpg" # size 100px*100px
+      designation : "Web Developer"
+      content : "Arth Homeo is effective for joint pains for older people"
+      rating : "five" # rating star, one to five      
+      
