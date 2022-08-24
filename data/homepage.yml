@@ -12,8 +12,8 @@ banner:
   # demo video
   video:
     enable : true
-    btntxt: ""
-    # videoURL : "https://www.youtube.com/embed/bkabicdixSM"
+    btntxt: "CNN explains Homeopathy"
+    videoURL : "https://www.youtube.com/embed/CVKnNggL1dg"
     # aWYWcJZoqBM"
     # Lin recommend https://youtu.be/hAWOU9Kw1bo
 
@@ -191,6 +191,6 @@ testimonial:
     - name : "Juan"
       image : "avatars/jun.jpg" # size 100px*100px
       designation : "Web Developer"
-      content : "Arth Homeo is effective for joint pains for older people"
+      content : "I use Gold SR to get more energy to help me code for long hours."
       rating : "five" # rating star, one to five      
       

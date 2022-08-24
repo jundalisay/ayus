@@ -1,6 +1,6 @@
 ---
 title: "Contact Ayus"
-description : "Feel free to ask us about our medicines"
+description : "Feel free to ask us about our supplements"
 ---
 
 <!-- 
