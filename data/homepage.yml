@@ -39,7 +39,8 @@ video:
   # content : "To establish a sustainable animal shelter and build a community where people care for animals and treat them with respect and kindness."
   # Angel's Shelter is an holistic animal shelter in Laguna. Holistic means that we don't only do animal resuce and adoption, but also community-building events, healthy eating, humanistic learning, and social work"
   videoThumb : "/photos/litmus.jpg"
-  # videoURL : "https://www.youtube.com/embed/bkabicdixSM"
+  videoURL : "https://www.youtube.com/embed/CVKnNggL1dg"
+  # "https://www.youtube.com/embed/bkabicdixSM"
   # videoURL : "https://www.youtube.com/embed/VSaoTSxSvw0"
 
 
@@ -121,15 +122,15 @@ dishes:
   subtitle: "Ask us for more details"
   items :
     - name: "Acid End" 
-      image: "/noimg.png"
+      image: "/graphics/acid.png"
       description: "For Acidity and Acid Reflux"
       link: "/homeopathy/acid"
     - name: "Hair Rejuv"
-      image: "/noimg.png"
+      image: "/graphics/hairrejuv.jpg"
       description: "For Hair Growth"      
       link: "/homeopathy/hair/"
     - name: "Skin Rejuv" 
-      image: "/noimg.png"
+      image: "/graphics/skinrejuv.png"
       description: "For Skin Growth"
       link: "/homeopathy/skin/"      
 
