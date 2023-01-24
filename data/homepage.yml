@@ -22,10 +22,23 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "Our Mission"
-  content : "<p>To provide affordable supplements under the spirit of Neo-Humanism</p>"
+  title : "Our Goal"
+  content : "<p>Ayus Health is a 100% Filipino-owned company established on December 13, 2006.</p><ul>Our vision is to nurture the Filipino people to live in a BETTER, HAPPY and HEALTHY environment.</ul><ul>Our mission is to develop nutritional products NOT only to answer the health needs of its people BUT to make significant contributions in health research and education.</ul>"
   image : "/photos/naturopathy.jpg"
 
+
+
+# YHPT commitment to a HAPPY world begins with HEALTHY children…
+# Our world is shaped by a passion for innovation providing food supplements that assure benefits BEYOND herbal nutrition.
+
+# THE SCIENCE BEHIND AYUS C PRESENTATION
+
+# JOSE C. MORDENO, D.H.M.
+# President/CEO
+
+# He obtained his training in Naturopathy in Calcutta, India studying with the genius of Dr. Bhatthacharya, after completing his doctorate degree in Homeopathy (British Institue of Homeopathy, U.K., 1998 – 2002). He is a graduate of pyramid healing in India and also a researcher, astrologer & an inventor.
+
+# He also have received numerous awards & citations for best product & design given by International F.A.M.E. as published in a EUROPEAN magazine. Locally awarded by HEALTHLINE NEWS and the Scientific Natural Therapy Association of the Philippines (SNTAP).
 
 
 ######################## Promo Video ##########################

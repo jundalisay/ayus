@@ -1,4 +1,4 @@
 ---
-title: "Commercial Properties"
-description : "Here are our listings of affordable commercial properties in Metro Manila"
+title: "Main Homeopathy Products"
+description : "Here are our listings of affordable Homeopathy products"
 ---
