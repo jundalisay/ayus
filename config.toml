@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ayushealth.shop"
+baseURL = "https://www.ayushealth.shop"
 languageCode = "en-us"
 title = "Ayus Health | Manila"
 theme = "hargo"
