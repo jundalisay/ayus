@@ -8,6 +8,10 @@ paginate = 9
 
 canonifyurls = true
 
+[assets]
+  disableFingerprinting = true
+
+
 ############################# Plugins ##############################
 [params.plugins]
 
