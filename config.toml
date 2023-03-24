@@ -1,5 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://www.ayushealth.shop"
+# baseURL = "https://www.ayushealth.shop"
+baseURL = "https://ayus.pantrypoints.com/"
 languageCode = "en-us"
 title = "Ayus Health | Manila"
 theme = "hargo"
