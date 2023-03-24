@@ -23,8 +23,9 @@ Cina Maritima | Used to control the attack of nematodes and bacteria
 Magnesium Carbonicum | Addresses the lack of flowers and absence of bloom
 Nux Vomica | Counteracts the intoxication to agricultural chemicals
 Silicea | Counteracts the attack of mildew and other fungi
-Sulfur | 
+
+<!-- Sulfur |  -->
 
 
 
-An alternative 
+<!-- An alternative  -->
