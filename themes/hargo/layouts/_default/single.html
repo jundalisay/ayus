@@ -28,7 +28,8 @@
 
 
         <h3 class="mb-4">{{ .Params.Cta }}</h3>
-        <form action="{{ .Site.Params.contact.formAction }}" method="POST">
+        <!-- <form action="{{ .Site.Params.contact.formAction }}" method="POST"> -->
+        <form method="post" action="https://isaiah.pantrypoints.com/api/email">          
           <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Your Name">
           <input type="text" class="form-control mb-2" id="phone" name="phone" placeholder="Your Phone">                    
           <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your Email">
