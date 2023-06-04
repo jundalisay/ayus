@@ -27,3 +27,15 @@
           </div>
         {{ end }}
 
+
+    <form action="{{ .Site.Params.contact.formAction }}" method="POST">
+<!--       <input type="text" class="form-control mb-2" id="name" name="email[name]" placeholder="Your Name">
+      <input type="email" class="form-control mb-2" id="email" name="email[email]" placeholder="Your Email">
+      <textarea name="email[content]" id="message" class="form-control mb-2" placeholder="Your Message"></textarea>
+      <input name="email[address]" id="source" type="hidden" value="{{ .Permalink }}">             -->
+      <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Your Name">
+      <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your Email">
+      <textarea name="message" id="message" class="form-control mb-2" placeholder="Your Message"></textarea>
+      <input type="hidden" id="source" name="address" value="{{ .Permalink }}">                  
+      <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Send Now</button>
+    </form>

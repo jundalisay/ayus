@@ -39,14 +39,14 @@ about:
 video:
   enable : true
   title : "Our featured medicine for the month"
-  content: "<p>For this month, we look into Memodrops which helps improve memory.</p>
+  content: "<p>For this month, we look into Cancon which helps limit the spread of Cancer.</p>
   " 
   # <p>Cebuanos have been well-known for roasting lechon in a way that is flavorful, tasty, and mouth-watering, 
   # with meat that is tender, juicy, and aromatic, with a crispy-skin.</p>"    
   # content : "To establish a sustainable animal shelter and build a community where people care for animals and treat them with respect and kindness."
   # Angel's Shelter is an holistic animal shelter in Laguna. Holistic means that we don't only do animal resuce and adoption, but also community-building events, healthy eating, humanistic learning, and social work"
-  videoThumb : "/photos/litmus.jpg"
-  videoURL : "https://www.youtube.com/embed/CVKnNggL1dg"
+  videoThumb : "/h/cancon.png"
+  videoURL : "https://www.youtube.com/embed/HktF0aNnOeQ"
   # "https://www.youtube.com/embed/bkabicdixSM"
   # videoURL : "https://www.youtube.com/embed/VSaoTSxSvw0"
 
@@ -184,8 +184,8 @@ testimonial:
     #   content : "I buy fish from Savilas because they care about the environment"
     #   rating : "four" # rating star, one to five
       
-    - name : "Lam"
-      image : "avatars/lam.jpg" # size 100px*100px
+    - name : "Anne"
+      image : "avatars/anh.jpg" # size 100px*100px
       designation : "Call Center Agent"
       content : "Memodrops helps me in my work"
       rating : "four" # rating star, one to five
