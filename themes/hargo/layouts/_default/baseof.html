@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     {{- partial "head.html" . -}}
     <body>
@@ -34,6 +35,7 @@
           }(document, 'script', 'facebook-jssdk'));
         </script>
                 
+
         {{- partial "preloader.html" . -}}
         {{- partial "header.html" . -}}
         {{- block "main" . }}{{- end }}

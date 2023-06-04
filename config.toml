@@ -163,7 +163,7 @@ logofooter = "logo.png"
 home = "Home"
 # Meta data
 description = "Your one-stop shop for alternative medicine in Metro Manila"
-author = "Pantry Peers"
+author = "Pantrypoints Technologies"
 
 
 # gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBQRj0aOxRe0Rk54PliNx6TXEW2BJI1Aww&libraries=places"
@@ -184,9 +184,9 @@ googleAnalitycsID = "G-T50Z5LV32L"
 # Contact Information
 # mobile = "0955 540 5110"
 # phone = "0955 540 5110"
-email = "hello@ayushealth.shop"
+email = "ayus@pantryponts.com"
 location = "Metro Manila"
-copyright = "| @2023 [Pantry Peers](https://pantrypoints.com/build) and [Superphysics](https://superphysics.org) |"
+copyright = "| @2023 [Pantrypoints Technologies](https://pantrypoints.com/build) and [Superphysics](https://superphysics.org) |"
 # All Rights Reserved
   # Preloader
   [params.preloader]
