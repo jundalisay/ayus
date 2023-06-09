@@ -5,7 +5,7 @@
 
 <section class="section pt-0">
   <div class="container">
-    <form method="post" action="https://isaiah.pantrypoints.com/api/email">         
+    <form method="post" action={{ .Site.Params.contact.formAction }}>         
       <input name="email[name]" type="text" class="form-control mb-2" id="name" placeholder="Your Name">
       <input name="email[phone]" type="text" class="form-control mb-2" id="phone" placeholder="Your Phone">                    
       <input name="email[email]" type="email" class="form-control mb-2" id="email" placeholder="Your Email">
