@@ -7,7 +7,7 @@
   <div class="container">
     <div class="card-columns">
       {{ range .Data.Pages }}
-        <div class="card border-0 text-center shadow">
+        <div class="card border-primary zoom-xs text-center shadow">
           <a href="{{ .Permalink }}">
             {{ range first 1 .Params.Images }}
             <img src="{{ .image | absURL }}" alt="{{ .Title }}" class="card-img-top">

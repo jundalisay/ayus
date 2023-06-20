@@ -21,4 +21,4 @@ images:
 - Scheussler's Tissue Salts
 
 
-For orders, message us here or contact Jose at 0975 908 9984
+For inquiries, message us here or contact Jose at 0975 908 9984

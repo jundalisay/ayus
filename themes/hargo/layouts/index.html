@@ -55,7 +55,7 @@
       <div class="container">
         <div class="row justify-content-around align-items-center">
           <div class="col-lg-5 col-md-6">
-            <img class="img-fluid pb-4" src="{{ .image | absURL }}" alt="">
+            <img class="img-fluid rounded pb-4" src="{{ .image | absURL }}" alt="">
           </div>
           <div class="col-md-6 col-lg-5">
             <h2>{{ .title | markdownify }}</h2>
@@ -81,7 +81,7 @@
       <div class="container">
         <div class="row align-items-center justify-content-between">
           <div class="col-lg-5 col-md-6">
-            <div class="img-border rounded mb-5 mb-md-0">
+            <div class="rounded mb-5 mb-md-0">
               <img src="{{ .videoThumb | absURL }}" alt="video thumb" class="img-fluid rounded">
               <a data-toggle="modal" data-src="{{ .videoURL | safeURL }}" data-target="#videoModal2"
                 class="text-color video-modal content-center"><i class="ti-control-play bg-gradient btn-play-lg"></i></a>
