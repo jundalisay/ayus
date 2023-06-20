@@ -9,6 +9,7 @@ cta: "Contact us to Inquire"
 draft: true
 images:
   - image: "/graphics/mosquito.png"
+image: "/graphics/mosquito.png"
 ---
 
 

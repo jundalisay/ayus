@@ -9,5 +9,6 @@ cta: "Contact us to Inquire"
 # first image will be shown in the product page
 images:
   - image: "/graphics/ayushair.jpg"  
+image: "/graphics/ayushair.jpg"
 ---
 

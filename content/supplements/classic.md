@@ -10,6 +10,7 @@ draft: true
 # first image will be shown in the product page
 images:
   - image: "/graphics/apoplex.jpg"
+image: "/graphics/apoplex.jpg"
 ---
 
 

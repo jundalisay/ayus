@@ -9,4 +9,5 @@ cta: "Contact us to Inquire"
 draft: true
 images:
   - image: "/graphics/gastro.png"
+image: "/graphics/gastro.png"
 ---

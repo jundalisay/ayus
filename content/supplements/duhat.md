@@ -8,5 +8,6 @@ type: "menu"
 cta: "Contact us to Inquire"
 images:
   - image: "/h/duhat.png"
+image: "/h/duhat.png"  
 ---
 

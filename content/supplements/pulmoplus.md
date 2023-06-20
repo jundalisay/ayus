@@ -8,4 +8,5 @@ type: "menu"
 cta: "Contact us to Inquire"
 images:
   - image: "/graphics/ayuspulmoplus.jpg"
+image: "/graphics/ayuspulmoplus.jpg"
 ---
