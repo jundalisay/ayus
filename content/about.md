@@ -1,20 +1,13 @@
 ---
 title: "About"
-# date: 2022-04-17T11:22:16+06:00
 description : "Jose C. Mordeno, D.H.M. is the President and CEO of Ayus."
 type: "menu"
-# cost: "Php 125"
-# costdef: "1 point = 1 value of 1 kilo NFA rice via [the Pantrypoints system](https://pantrypoints.com)"
-# cta: "Contact us to Inquire"
-# first image will be shown in the product page
 images:
   - image: "/photos/jose.jpg"
 ---
 
 
 He obtained his training in Naturopathy in Calcutta, India studying with the genius of Dr. Bhatthacharya, after completing his doctorate degree in Homeopathy (British Institue of Homeopathy, U.K., 1998 – 2002)
-
-He obtained his training in Naturopathy in Calcutta, India studying with the genius of Dr. Bhatthacharya, after completing his doctorate degree in Homeopathy (British Institue of Homeopathy, U.K., 1998 – 2002). 
 
 He is a graduate of pyramid healing in India and also a researcher, astrologer & an inventor.
 

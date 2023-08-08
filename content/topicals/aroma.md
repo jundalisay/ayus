@@ -1,13 +1,15 @@
 ---
-title: "Aroma Therapy Oil"
-# date: 2022-04-17T11:22:16+06:00
-description : "For coughs and colds"
+title: "Aromatherapy Oil"
+description : "Ayus Aromatherapy Oil is coconut oil infused with eucalyptus and peppermint scents. It can be used for a relaxing massage or to moisturize hair and skin in a natural way."
 type: "menu"
-# cost: "Php 125"
-# costdef: "1 point = 1 value of 1 kilo NFA rice via [the Pantrypoints system](https://pantrypoints.com)"
 cta: "Contact us to Inquire"
-# first image will be shown in the product page
 images:
-  - image: "/graphics/ayusaroma.jpg"
-image: "/graphics/ayusaroma.jpg"
+  - image: "/h/aroma.png"
+image: "/h/aroma.png"
 ---
+
+
+## Active Ingredients
+
+- Coconut Oil
+

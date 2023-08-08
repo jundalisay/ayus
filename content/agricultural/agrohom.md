@@ -2,15 +2,12 @@
 title: "Agrohom"
 description : "Agrohom uses homeopathic essences to control pests and diseases in plants without harming the natural ecology"
 type: "menu"
-# cost: "Php 125"
-# costdef: "1 point = 1 value of 1 kilo NFA rice via [the Pantrypoints system](https://pantrypoints.com)"
-cta: "Contact us to Inquire"
+cta: "To inquire, message us below or call Jose at 0975 908 9984"
 images:
-  - image: "/graphics/ayusagro.jpg"
+  - image: "/h/agro.jpg"
 ---
 
 
- 
 
 It includes the following remedies: 
 
@@ -25,7 +22,3 @@ Nux Vomica | Counteracts the intoxication to agricultural chemicals
 Silicea | Counteracts the attack of mildew and other fungi
 
 <!-- Sulfur |  -->
-
-
-
-<!-- An alternative  -->

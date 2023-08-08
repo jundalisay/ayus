@@ -1,5 +1,4 @@
 ######################## default configuration ####################
-# baseURL = "https://www.ayushealth.shop"
 baseURL = "https://ayus.pantrypoints.com/"
 languageCode = "en-us"
 title = "Ayus Health | Manila"
@@ -184,7 +183,7 @@ googleAnalitycsID = "G-T50Z5LV32L"
 # Contact Information
 # mobile = "0955 540 5110"
 # phone = "0955 540 5110"
-email = "ayus@pantryponts.com"
+email = "ayus@pantrypoints.com"
 location = "Metro Manila"
 copyright = "| @2023 [Pantrypoints Technologies](https://pantrypoints.com/build) and [Superphysics](https://superphysics.org) |"
 # All Rights Reserved

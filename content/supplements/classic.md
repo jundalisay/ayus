@@ -1,7 +1,6 @@
 ---
-title: "Classical Homeopathic Remedies"
-# date: 2022-04-17T11:22:16+06:00
-description : "For Stamina and Energy"
+title: "Classical Homeopathic Remedy"
+description : "This is made up of multiple remedies in one solution."
 type: "menu"
 # cost: "Php 125"
 # costdef: "1 point = 1 value of 1 kilo NFA rice via [the Pantrypoints system](https://pantrypoints.com)"
@@ -9,8 +8,8 @@ cta: "Contact us to Inquire"
 draft: true
 # first image will be shown in the product page
 images:
-  - image: "/graphics/apoplex.jpg"
-image: "/graphics/apoplex.jpg"
+  - image: "/s/classic.png"
+image: "/s/classic.png"
 ---
 
 

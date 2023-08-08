@@ -1,19 +1,13 @@
 ---
-title: "Rescue Remedy"
-# date: 2022-04-17T11:22:16+06:00
-description : "Essential Remedy within your reach"
+title: "Rescue & Relief Spray"
+description : "Rescue & Relief Spray is a convenient and portable weay to restore your inner calm. It uses Bach flower essences to help alleviate sudden anxiety and stress from hyteria or shock from accidents."
 type: "menu"
-# cost: "Php 125"
-# costdef: "1 point = 1 value of 1 kilo NFA rice via [the Pantrypoints system](https://pantrypoints.com)"
 cta: "Contact us to Inquire"
-# first image will be shown in the product page
 images:
-  - image: "/graphics/ayusrescue.jpg"
-image: "/graphics/ayusrescue.jpg"
+  - image: "/h/rescue.png"
+image: "/h/rescue.png"
 ---
 
-
-The Rescue & Relief spray is a convenient and portable weay to restore your inner calm. It uses Bach flower essences to help alleviate sudden anxiety and stress from hyteria or shock from accidents. 
 
 It can also be used regularly by those who have chronic impatience or anxiety.
 
@@ -25,13 +19,14 @@ Two sprays directly on the tongue.
 
 ## Active Ingredients
 
-**Dr. Bach Flower Essences**
+- Dr. Bach Flower Essences
 
 Bach Flower Essences* are especially beneficial when you find yourself in traumatic situations, such as, stress, emergencies, after getting bad news, before an exam or job interview and all other kind of situations where we suddenly lose balance mentally. The Remedies quickly get us back in our normal balance so that we calmly can deal with any situation.
 
-
 > *Dr. Bach was a Harley Street physician who believed that a healthy mind means a healthy body. He studied flower essences and their effects on emotional imbalance and formulated an on-the-spot remedy to help manage both everyday and unexpected stressful situation.
 
+
+Rescue & Relief Spray was formerly Rescue Remedy. 
 
 
 <!-- ## Impatience

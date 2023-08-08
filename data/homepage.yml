@@ -23,8 +23,8 @@ banner:
 about:
   enable : true
   title : "Our Goal"
-  content : "<p>Ayus Health is a 100% Filipino-owned company established on December 13, 2006.</p><ul>Our vision is to nurture the Filipino people to live in a BETTER, HAPPY and HEALTHY environment.</ul><ul>Our mission is to develop nutritional products NOT only to answer the health needs of its people BUT to make significant contributions in health research and education.</ul>"
-  image : "/photos/naturopathy.jpg"
+  content : "<div class='content'>Ayus Health is a 100% Filipino-owned company established on December 13, 2006.</p><ul><li>Our vision is to nurture a better, happier, and healthier holistic environment.</li><li>Our mission is to develop nutritional products not makes people physically healthier, but also to contribute to health research and education.</li></ul></div>"
+  image : "/photos/runhealth.jpg"
 
 
 
@@ -70,23 +70,35 @@ video:
 
 cta:
   enable : true
-  title : "Homeopathic First Aid"
-  content : "We have homeopathic supplements for first aid."
-  image : "/photos/emergency.jpg"
+  title: "All-Natural Ingredients"
+  #  title : "Homeopathic First Aid"
+  # content : "We have homeopathic supplements for first aid."
+  content: All our ingredients come from nature and prepared either homeopathically or naturally
+  image : "/photos/naturopathy.jpg"
   # overlayImage : "images/cta-overlay.png"
   # button:
   #   label : "View details"
   #   link : "/graphics/elivirsopening.jpg"
 
-# cta2:
-#   enable : true
-#   title : "Both for Buyers and Sellers"
-#   content : "Are you looking for a specific type of property? Post it here"
-#   image : "/photos/looking.jpg"
-# #   # overlayImage : "images/cta-overlay.png"
-#   button:
-#     label : "Tell us what you're looking for"
-#     link : "/contact"
+cta2:
+  enable : true
+  title : "Natural Beauty Products"
+  content : "We also natural beauty products for the hair, skin, and lips"
+  image : "/photos/selfie.jpg"
+  button:
+    label : "View our beauty products"
+    link : "/topicals"
+
+
+cta3:
+  enable : true
+  title : "We Uplift the Poor"
+  content : "Part of the proceeds of our revenues goes to our partners in social service. We regularly provide our medicines to medical missions in poor areas."
+  image : "/photos/medical.jpg"
+  # overlayImage : "images/cta-overlay.png"
+  button:
+    label : "View our sponsored activities"
+    link : "https://scenac.org"
 
 # cta3:
 #   enable : true

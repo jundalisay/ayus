@@ -7,14 +7,14 @@
   <div class="container">
     <div class="card-columns">
       {{ range .Data.Pages }}
-        <div class="card border-primary zoom-xs text-center shadow">
+        <div class="card border-primary zoom-xs text-center shadow-lg">
           <a href="{{ .Permalink }}">
             {{ range first 1 .Params.Images }}
             <img src="{{ .image | absURL }}" alt="{{ .Title }}" class="card-img-top">
             {{ end }}
           </a>
           <div class="card-body">
-            {{ .Title }}
+            <h4 class="font-weight-bold h3">{{ .Title }}</h4>
             <p>{{ .Params.Description }}</p>
             <div class="mb-4">
               <span class="lead text-primary">{{ .Params.Price }}</span>

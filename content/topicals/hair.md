@@ -1,14 +1,17 @@
 ---
-title: "Hair Rejuv"
-# date: 2022-04-17T11:22:16+06:00
-description : "For Failling Hair and Hair Growth"
+title: "Hair Rejuv Spray"
+description : "Hair Rejuv Spray rejuvenates the scalp, stimulating hair follicles by improving the blood flow and preventing premature hair fall while promoting hair growth"
 type: "menu"
-# cost: "Php 125"
-# costdef: "1 point = 1 value of 1 kilo NFA rice via [the Pantrypoints system](https://pantrypoints.com)"
-cta: "Contact us to Inquire"
-# first image will be shown in the product page
+cta: "To inquire, message us below or call Jose at 0975 908 9984"
 images:
-  - image: "/graphics/ayushair.jpg"  
-image: "/graphics/ayushair.jpg"
+  - image: "/h/hair.png"  
+image: "/h/hair.png"
 ---
 
+
+## Active Ingredients
+
+- Coconut Oil
+- Aloe Vera
+- Arnica Montana
+- Dr. Bach Flowers

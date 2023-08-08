@@ -1,13 +1,17 @@
 ---
-title: "Ors Homeo"
-# date: 2022-04-17T11:22:16+06:00
-description : "Helps ease diarrhea and depression"
+title: "ORS Homeo"
+description : "Helps relieve diarrhea"
 type: "menu"
-# cost: "Php 125"
-# costdef: "1 point = 1 value of 1 kilo NFA rice via [the Pantrypoints system](https://pantrypoints.com)"
 cta: "Contact us to Inquire"
-# first image will be shown in the product page
 images:
-  - image: "/graphics/ayusors.jpg"
-image: "/graphics/ayusors.jpg"
+  - image: "/h/ors.png"
+image: "/h/ors.png"
 ---
+
+
+## Active Ingredients
+
+- Homeopathic Salts
+- Scheussler's Tissue Salts
+
+

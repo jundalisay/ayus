@@ -1,14 +1,15 @@
 ---
 title: "Mosquito Repellent"
-# date: 2022-04-17T11:22:16+06:00
-description : "Mosquito Repellent"
+description : "Repels mosquitoes naturally without any harmful chemicals. It uses citronella in coconut oil in order to drive away small insects without the bad smell of insecticides. It's perfect for the outdoors and safe for sensitive skin."
 type: "menu"
-# cost: "Php 125"
-# costdef: "1 point = 1 value of 1 kilo NFA rice via [the Pantrypoints system](https://pantrypoints.com)"
-cta: "Contact us to Inquire"
-# first image will be shown in the product page
+cta: "To inquire, message us below or call Jose at 0975 908 9984"
 images:
-  - image: "/graphics/ayusmos.jpg"
-image: "/graphics/ayusmos.jpg"
+  - image: "/h/mos.png"
+image: "/h/mos.png"
 ---
 
+
+## Active Ingredients
+
+- Coconut Oil
+- Citronella
