@@ -98,7 +98,7 @@ cta3:
   # overlayImage : "images/cta-overlay.png"
   button:
     label : "View our sponsored activities"
-    link : "https://scenac.org"
+    link : "https://www.scenac.org/"
 
 # cta3:
 #   enable : true
@@ -145,13 +145,14 @@ dishes:
       description: "Helps control the spread of cancer"      
       link: "/supplements/cancon/"
     - name: "Hair Rejuv"
-      image: "/graphics/ayushair.jpg"
+      image: "/h/hair.png"
       description: "For Falling Hair and Hair Growth"
       link: "/topicals/hair/"      
     - name: "Rescue & Relief Spray"
-      image: "/graphics/ayusrescue.jpg"
+      image: "/h/rescue.png"
       description: "For Sudden Stress and Anxiety"
       link: "/supplements/rescue"
+
 
 
 ########################### Advantage #########################
