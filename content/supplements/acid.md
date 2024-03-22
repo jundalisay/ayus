@@ -10,6 +10,11 @@ images:
 ---
 
 
+
+Natrum Phosphoricum is a homeopathic remedy that is used to ease acidity, also known as heartburn or indigestion.
+
+
+
 ## Active Ingredients
 
 - Natrum Phosphoricum 6x

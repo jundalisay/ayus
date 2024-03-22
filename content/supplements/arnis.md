@@ -9,6 +9,10 @@ images:
 ---
 
 
+
+These homeopathic ingredients add stamina and energy for young people and adults
+
+
 ## Active Ingredients
 
 - Ginseng 3x

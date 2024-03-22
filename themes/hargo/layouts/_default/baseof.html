@@ -4,21 +4,37 @@
     {{- partial "head.html" . -}}
     <body>
 
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/63e1c3d5474251287911deba/1goku9uqn';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+
+
     <!-- Messenger Chat Plugin Code -->
-        <div id="fb-root"></div>
+        <!-- <div id="fb-root"></div> -->
 
         <!-- Your Chat Plugin code -->
-        <div id="fb-customer-chat" class="fb-customerchat">
-        </div>
+<!--         <div id="fb-customer-chat" class="fb-customerchat">
+        </div> -->
 
-        <script>
+<!--         <script>
           var chatbox = document.getElementById('fb-customer-chat');
           chatbox.setAttribute("page_id", "107480018751881");
           chatbox.setAttribute("attribution", "biz_inbox");
-        </script>
+        </script> -->
 
         <!-- Your SDK code -->
-        <script>
+<!--         <script>
           window.fbAsyncInit = function() {
             FB.init({
               xfbml            : true,
@@ -33,7 +49,7 @@
             js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
             fjs.parentNode.insertBefore(js, fjs);
           }(document, 'script', 'facebook-jssdk'));
-        </script>
+        </script> -->
                 
 
         {{- partial "preloader.html" . -}}
