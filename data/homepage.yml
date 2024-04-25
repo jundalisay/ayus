@@ -12,8 +12,8 @@ banner:
   # demo video
   video:
     enable : true
-    btntxt: "CNN explains Homeopathy"
-    videoURL : "https://www.youtube.com/embed/CVKnNggL1dg"
+    btntxt: "What is Homeopathy?"
+    videoURL : "https://www.youtube.com/embed/e2QWLBfdP6o"
     # aWYWcJZoqBM"
     # Lin recommend https://youtu.be/hAWOU9Kw1bo
 
